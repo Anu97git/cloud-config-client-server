@@ -1,3 +1,2 @@
-spring.application.name=config-client
 welcome.message=welcome message from Github  property file ! welcome to ${app.name}
 app.name= Github
